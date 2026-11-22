@@ -29,7 +29,7 @@ A status bar at the bottom confirms each action.
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/kfahchai-netizen/CMA-PERFORMANCE-PRO.git
+git clone https://github.com/kfahchai/CMA-PERFORMANCE-PRO.git
 cd CMA-PERFORMANCE-PRO
 pip install matplotlib fpdf
 python main.py
